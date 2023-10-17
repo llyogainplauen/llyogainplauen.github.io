@@ -630,7 +630,7 @@ img:not([src]) {
 }
 
 .t-text {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 300;
     color: #000000
 }
@@ -641,7 +641,7 @@ img:not([src]) {
 }
 
 .t-name {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 600;
     color: #000000
 }
@@ -662,7 +662,7 @@ img:not([src]) {
 }
 
 .t-heading {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 600;
     color: #000000
 }
@@ -673,7 +673,7 @@ img:not([src]) {
 }
 
 .t-title {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 600;
     color: #000000
 }
@@ -694,7 +694,7 @@ img:not([src]) {
 }
 
 .t-descr {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 300;
     color: #000000
 }
@@ -716,7 +716,7 @@ img:not([src]) {
 
 .t-btn {
     display: inline-block;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     border: 0 none;
     text-align: center;
     white-space: nowrap;
@@ -1071,7 +1071,7 @@ img:not([src]) {
 
 .t228__list_item {
     clear: both;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-size: 16px;
     display: inline-block;
     padding-left: 15px;
@@ -1114,7 +1114,7 @@ img:not([src]) {
     display: table-cell;
     vertical-align: middle;
     white-space: nowrap;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-size: 13px;
     color: #000000
 }
@@ -1169,7 +1169,7 @@ img:not([src]) {
     display: table-cell;
     vertical-align: middle;
     padding: 0 10px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-size: 16px;
     color: #000000;
     word-break: keep-all
@@ -1918,7 +1918,7 @@ img:not([src]) {
 }
 
 .t142 .t142__submit {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     text-align: center;
     border: 0 none;
     font-size: 16px;
